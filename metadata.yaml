@@ -1,0 +1,42 @@
+_repo: Lucy-Maud-Montgomery-Short-Stories-1905-to-1906_24876
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montgomery, L. M. (Lucy Maud)
+    aliases:
+    - Montgomery, Lucy Maud
+    - MacDonald, Lucy Maud Montgomery
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '36'
+    url: http://www.gutenberg.org/2009/agents/36
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2008-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24876'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, Canadian'
+tableOfContents: A correspondence and a climax -- An adventure on Island Rock -- At
+  five o'clock in the morning -- Aunt Susanna's birthday celebration -- Bertie's New
+  Year -- Between the hill and the valley -- Clorinda's gifts -- Cyrilla's inspiration
+  -- Dorinda's desperate deed -- Her own people -- Ida's New Year cake -- In the old
+  valley -- Jane Lavinia -- Mackereling out in the gulf -- Millicent's double -- The
+  blue north room -- The Christmas surprise at Enderly Road -- The dissipation of
+  Miss Ponsonby -- The Falsoms' Christmas dinner -- The Fraser Scholarship -- The
+  girl at the gate -- The light on the Big Dipper -- The prodigal brother -- The redemption
+  of John Churchill -- The schoolmaster's letter -- The story of Uncle Dick -- The
+  understanding of Sister Sara -- The unforgotten one -- The wooing of Bessy -- Their
+  girl Josie -- When Jack and Jill took a hand.
+title: Lucy Maud Montgomery Short Stories, 1905 to 1906
+url: http://www.gutenberg.org/ebooks/24876
